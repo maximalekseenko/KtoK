@@ -1,4 +1,7 @@
 $( function() {
-    $( "header" ).load( "./templates/header.html" );
-    $( "footer" ).load( "./templates/footer.html" );
+    $.get( "./templates/head.html", function(content){
+        $( ".template.head" ).prepend( content);
+    });
+    $( ".template.header" ).load( "./templates/header.html" );
+    $( ".template.footer" ).load( "./templates/footer.html" );
 })
