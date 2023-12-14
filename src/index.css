@@ -1,11 +1,11 @@
 header {
     height: 50px;
-    background-color: rgb(44, 70, 200);
+    background-color: rgb(58, 91, 255);
 }
 
 
 body {
-    background-color: rgb(230, 233, 249);
+    background-color: rgb(255, 255, 255);
     height: 100vh;
     margin: 0;
 
@@ -16,7 +16,7 @@ body {
 
 footer {
     height: 50px;
-    background-color: rgb(44, 70, 200);
+    background-color: rgb(58, 91, 255);
 }
 
 
