@@ -3,12 +3,14 @@ header {
     background-color: rgb(0, 37, 224);
 }
 
-footer{
+
+footer {
     height: 50px;
     background-color: rgb(218, 1, 1);
 }
 
-body{
+
+body {
     background-color: rgb(235, 10, 255);
     height: 100vh;
     margin: 0;
@@ -17,10 +19,12 @@ body{
     flex-direction:column;
 }
 
+
 .content{
     height: 100%;
     flex:1;
 }
+
 
 html{
     margin: 0;
