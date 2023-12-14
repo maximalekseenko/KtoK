@@ -10,12 +10,16 @@ footer{
 
 body{
     background-color: rgb(235, 10, 255);
+    height: 100vh;
+    margin: 0;
 
+    display:flex; 
+    flex-direction:column;
 }
 
 .content{
     height: 100%;
-
+    flex:1;
 }
 
 html{
