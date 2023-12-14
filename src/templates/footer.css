@@ -1,0 +1,7 @@
+.footer-logo{
+    width: 500px;
+    position: fixed;
+    right: -140px;
+    bottom: -100px;
+    overflow:hidden
+}
