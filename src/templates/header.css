@@ -4,15 +4,20 @@
     justify-content: space-between;
 }
 
-.header-link-icon{
-
-}
-
-.header-link-container{
+/* ---------- header link ---------- */
+.header-link{
     height: 100%;
+    display: flex;
 }
-
 
 .header-link-text{
     color: black;
 }
+
+.header-link-icon{
+
+}
+
+/* ---------- header link - end ---------- */
+
+
