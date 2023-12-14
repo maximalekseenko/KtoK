@@ -1,22 +1,22 @@
 header {
     height: 50px;
-    background-color: rgb(0, 37, 224);
+    background-color: rgb(44, 70, 200);
+}
+
+
+body {
+    background-color: rgb(230, 233, 249);
+    height: 100vh;
+    margin: 0;
+
+    display:flex;
+    flex-direction:column;
 }
 
 
 footer {
     height: 50px;
-    background-color: rgb(218, 1, 1);
-}
-
-
-body {
-    background-color: rgb(235, 10, 255);
-    height: 100vh;
-    margin: 0;
-
-    display:flex; 
-    flex-direction:column;
+    background-color: rgb(44, 70, 200);
 }
 
 
