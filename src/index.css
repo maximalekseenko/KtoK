@@ -1,6 +1,6 @@
 header {
     height: 50px;
-    background-color: rgb(58, 91, 255);
+    background-color: rgb(150, 167, 255);
 }
 
 
@@ -28,6 +28,9 @@ footer {
 html{
     margin: 0;
 }
+
+
+
 
 
 .accaunt-area{
