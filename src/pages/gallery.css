@@ -1,0 +1,58 @@
+.gallery-card-grid {
+    padding: 50px 225px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery-card-container {
+    height:300px;
+    position: relative;
+    margin: 5px 10px;
+
+    border-radius: 25px;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #96a7ff;
+    transition: ease-in-out .25s;
+
+    overflow: hidden;
+}
+.gallery-card-container:hover {
+    background-color: #bdc8ff;
+}
+
+.gallery-card-event-container {
+    width:200px;
+}
+.gallery-card-post-container {
+    width:400px;
+}
+.gallery-card-review-container {
+    width:300px;
+}
+
+.gallery-card-img {
+    position: absolute;
+    width: 100%;
+    mask-image: linear-gradient(to bottom, #000000ff 100px, #00000000 150px);
+
+}
+
+.gallery-card-name {
+    margin: 150px 0 0 0;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
+.gallery-card-description {
+}
+
+.gallery-card-button {
+}
+
