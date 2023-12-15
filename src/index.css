@@ -1,6 +1,6 @@
 header {
     height: 50px;
-    background-color: rgb(150, 167, 255);
+    background-color: #96a7ff;
 }
 
 
@@ -27,6 +27,12 @@ footer {
 
 html{
     margin: 0;
+}
+
+.text {
+    color: #252638;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
 }
 
 
